@@ -14,7 +14,6 @@ function App() {
       <NavBar />
       <Routes>
         <Route path="/" Component={HomePage} />
-        <Route path="/contacto" Component={Contacto} />
       </Routes>
     </BrowserRouter>
   )
